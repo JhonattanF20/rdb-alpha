@@ -83,3 +83,4 @@ __vsc_prompt_cmd_original
 cd /workspace/project/website
 echo hello website
 touch index.html
+touch styles.css
