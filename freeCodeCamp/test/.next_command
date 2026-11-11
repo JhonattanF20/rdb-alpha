@@ -224,3 +224,7 @@ cd /workspace/project/website
 echo "I finished the boilerplate!"
 cd /workspace/project/website
 echo I finished the boilerplate!
+cd /workspace/project/website
+echo "one more thing..."
+cd /workspace/project/website
+echo one more thing...
