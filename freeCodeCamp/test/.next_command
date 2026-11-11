@@ -195,3 +195,4 @@ mv freeCodeCamp.svg client/assets/icons/
 tree
 cd /workspace/project/website
 find
+mkdir client/assets/fonts
