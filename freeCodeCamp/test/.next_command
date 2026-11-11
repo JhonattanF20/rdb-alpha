@@ -180,3 +180,4 @@ cd /workspace/project/website
 find
 rmdir images
 rm images/background.jpg
+rmdir images
