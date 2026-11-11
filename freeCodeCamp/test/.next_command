@@ -202,3 +202,4 @@ ls --color=auto client/assets/fonts
 cd /workspace/project/website
 find client/assets/fonts
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
