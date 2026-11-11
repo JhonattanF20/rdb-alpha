@@ -210,3 +210,4 @@ rm -r fonts
 ls --color=auto
 cd /workspace/project/website
 touch package.json
+touch server.js
