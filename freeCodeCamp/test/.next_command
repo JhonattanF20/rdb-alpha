@@ -232,3 +232,5 @@ cd /workspace/project/website
 echo I made this boilerplate >> README.md
 cd /workspace/project/website
 more README.md
+cd /workspace/project/website
+echo from the command line >> README.md
