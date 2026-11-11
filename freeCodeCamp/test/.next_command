@@ -198,3 +198,6 @@ find
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+ls --color=auto client/assets/fonts
+cd /workspace/project/website
+find client/assets/fonts
