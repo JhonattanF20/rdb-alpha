@@ -185,3 +185,6 @@ ls --color=auto
 mkdir -p client/assets/icons
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons/
+tree
+cd /workspace/project/website
+find
