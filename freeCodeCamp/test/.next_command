@@ -121,3 +121,6 @@ ls --color=auto
 cd ..
 ls --color=auto
 rm header.png
+rm footer.png
+cd /workspace/project/website
+rm footer.jpeg
