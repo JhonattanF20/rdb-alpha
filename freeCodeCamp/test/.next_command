@@ -192,3 +192,6 @@ find client/assets/icons
 mv CodeRoad client/assets/icons/
 mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons/
+tree
+cd /workspace/project/website
+find
