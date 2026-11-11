@@ -228,3 +228,5 @@ cd /workspace/project/website
 echo "one more thing..."
 cd /workspace/project/website
 echo one more thing...
+cd /workspace/project/website
+echo I made this boilerplate >> README.md
