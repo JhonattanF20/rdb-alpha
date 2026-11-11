@@ -188,3 +188,6 @@ mv CodeAlly.svg client/assets/icons/
 tree
 cd /workspace/project/website
 find
+find client/assets/icons
+mv CodeRoad client/assets/icons/
+mv CodeRoad.svg client/assets/icons
