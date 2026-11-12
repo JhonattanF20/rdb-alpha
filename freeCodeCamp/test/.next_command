@@ -319,3 +319,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd /workspace/project/website
 more README.md
+cd /workspace/project/website
+echo for the freeCodeCamp bash lessons >> README.md
