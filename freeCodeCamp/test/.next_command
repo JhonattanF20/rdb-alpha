@@ -327,3 +327,5 @@ cd /workspace/project/website
 cd ..
 ls --color=auto
 mv website website-boilerplate
+ls --color=auto
+__vsc_prompt_cmd_original
