@@ -326,3 +326,4 @@ more README.md
 cd /workspace/project/website
 cd ..
 ls --color=auto
+mv website website-boilerplate
